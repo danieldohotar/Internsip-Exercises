@@ -1,0 +1,2 @@
+[Iasi, Viena, Paris, Londra, Berlin, Madrid, Venetia, Barcelona, Timisoara, Cluj-Napoca]
+[Iasi, Viena, Paris, Londra, Berlin, Madri, Ventia, Barcelon, Timsoar, Cluj-Napoc]

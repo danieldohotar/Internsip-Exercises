@@ -1,0 +1,3 @@
+[Paris, Cluj-Napoca, Timisoara, Barcelona, Venetia, Viena]
+[Berlin, Madrid, Londra, Iasi]
+{evenCities=[Berlin, Madrid, Londra, Iasi], oddCities=[Paris, Cluj-Napoca, Timisoara, Barcelona, Venetia, Viena]}
